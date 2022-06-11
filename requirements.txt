@@ -1,5 +1,5 @@
 ﻿absl-py==1.0.0
-whitenoise==6.2.0
+whitenoise==5.3.0
 asgiref==3.4.1
 astunparse==1.6.3
 autopep8==1.6.0
