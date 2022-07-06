@@ -78,7 +78,7 @@ pip install -r requirements.txt
 **Note: If dlib is not installed then you can install the file 
 "dlib-19.22.99-cp39-cp39-win_amd64.whl" which is attached with the code file** [download](https://github.com/csejay3chauhan/microsodt-engage-22-project/blob/master/dlib-19.22.99-cp39-cp39-win_amd64.whl)
 ```python
-pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
+pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl
 ```
 
 and run the following command in the command prompt:
